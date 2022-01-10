@@ -1,0 +1,28 @@
+  body {
+    color: Black;
+    font-family: Pristina;
+    font-weight: bold;
+  }
+
+  h1 , h2 {
+    border-bottom: 1px solid black;
+    font-size: 35px;
+    background-color: Pink;
+    font-family: Pristina;
+  }
+
+  .Blue {
+    color: Blue;
+    font-size: 25px;
+    font-family: Pristina;
+  }
+
+  .Black {
+    color: Black;
+    font-size: 25px;
+    font-family: Pristina;
+  }
+
+  .underline {
+    text-decoration: underline;
+  }
