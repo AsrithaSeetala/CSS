@@ -1,0 +1,60 @@
+.div1 {
+  
+  background-color: green;
+  color: yellow;
+  
+  position: fixed;
+
+  top: 10px;
+  left: 10px;
+  
+}
+
+.div2 {
+  
+  background-color: green;
+  color: yellow;
+
+  position: absolute;
+
+  top: 30px;
+  left: 10px;
+
+}
+
+.div3 {
+  
+  background-color: red;
+  color: white;
+
+  position: absolute;
+
+  top: 60px;
+  left: 10px;
+
+}
+
+.div4 {
+  
+  background-color: red;
+  color: white;
+
+  position: absolute;
+
+  top:90px;
+  left: 10px;
+
+}
+
+.div5 {
+  
+  background-color: red;
+  color: white;
+
+  position: absolute;
+
+  top: 120px;
+  left: 10px;
+
+}
+
