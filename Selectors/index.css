@@ -1,0 +1,36 @@
+#center{
+  width: 300px;
+  float: left;
+  padding: 15px;
+  margin: 10px;
+  background-color: #000f57;
+}
+
+#left{
+  width: 300px;
+  float: left;
+  padding: 15px;
+  margin: 10px;
+  background-color: #000044;
+}
+
+#right{
+  width: 300px;
+  float: left;
+  padding: 15px;
+  margin: 10px;
+  background-color: #00032c;
+}
+
+#left, #center, #right {
+  border : dotted 1px grey;
+  color: white;
+}
+
+h2~p {
+  color: white;
+}
+
+p[lang*="us"] {
+  background-color: #6066c6;
+}
