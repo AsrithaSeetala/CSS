@@ -1,0 +1,30 @@
+body{
+   background-color: #000117;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li a {
+  text-decoration: none;
+  font-family: pristina;
+  background-color: rgb(135, 194, 25);
+  color: black;
+  display: block;
+  width: 80px;
+  margin: 5px;
+  padding: 10px;
+  border: 1px dotted rgb(153, 0, 255);
+  border-radius: 2px;
+  text-align: center;
+  font-weight: bold;
+  height: 25px;
+  line-height: 23px;
+}
+
+a:hover{
+  background: rgb(18, 173, 78);
+  color: white;
+  font-weight: bold;
+}
