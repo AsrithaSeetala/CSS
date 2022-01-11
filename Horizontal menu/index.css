@@ -1,0 +1,28 @@
+#nav {
+  background-color: #000117;
+  height: 34px;
+  font-size: 25px;
+  font-weight: bold;
+  font: pristina;
+}
+
+#nav ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+#nav li {
+  vertical-align: middle;
+  display: inline;
+  padding: 50px;
+}
+
+#nav a {
+  text-align: center;
+  color: grey;
+}
+
+#nav a:hover {
+  background:#6066c6;
+  color: greenyellow;
+}
