@@ -23,7 +23,7 @@
 }
 
 #left, #center, #right {
-  border : dotted 1px grey;
+  border : dotted 1.5px grey;
   color: white;
 }
 
