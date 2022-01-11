@@ -34,3 +34,7 @@ h2~p {
 p[lang*="us"] {
   background-color: #6066c6;
 }
+
+#right p:nth-child(10) {
+background-color: red;
+}
